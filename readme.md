@@ -9,7 +9,7 @@ This repository includes code for the 3D model described in the paper as
 well as accompanying analyses and psychophysical data. 
 
 -----------------------
-Description of folders/files in top directory
+**Description of folders/files in top directory**
 
 decoding: This folder contains 3 simulations which simulate from populations 
 based on the 3D model, a von Mises model and an idealized von Mises model.
